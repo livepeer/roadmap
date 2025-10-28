@@ -1,7 +1,7 @@
 ---
 name: Roadmap Item
 about: Create a new roadmap entry for a Livepeer product or protocol initiative.
-title: "<Brief title here>"
+title: ''
 labels: ''
 assignees: ''
 
