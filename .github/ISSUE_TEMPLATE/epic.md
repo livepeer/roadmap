@@ -1,10 +1,8 @@
 ---
 name: Epic
 about: Track a large initiative that spans multiple issues, repos, or teams.
-title: '[Epic] '
-labels: 'epic'
-assignees: ''
-
+title: ''
+type: epic
 ---
 
 ## Goal
@@ -17,10 +15,11 @@ _Why is this epic needed? Link any relevant forum posts, proposals, or prior art
 
 ## Scope
 
-_Checklist of deliverables. Link child issues/PRs as they're created._
+_What's included and what's not. Tracking is handled via sub-issues._
 
-- [ ] _Deliverable 1 (link to issue)_
-- [ ] _Deliverable 2_
+**Included:** _What upstream changes or work items fall under this epic._
+
+**Not included:** _What's explicitly out of scope._
 
 ## Success Criteria
 
